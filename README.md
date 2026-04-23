@@ -1,10 +1,10 @@
-# so_long
+# 2d_tile_game
 
-A 2D game built for the 42 school curriculum using the MinilibX graphics library.
+A 2D top-down game built with the MinilibX graphics library.
 
 ## Overview
 
-so_long is a top-down 2D game where the player navigates a map, collects items, and reaches the exit. Maps are loaded from `.ber` files with pixel-art assets that scale based on map size.
+2d_tile_game is a top-down 2D game where the player navigates a map, collects items, and reaches the exit. Maps are loaded from `.ber` files with pixel-art assets that scale based on map size.
 
 ## Features
 
@@ -37,6 +37,7 @@ so_long is a top-down 2D game where the player navigates a map, collects items, 
 | `E` | Exit (at least one) |
 
 Example (`maps/map1.ber`):
+
 ```
 1111111111111
 10010000000C1
@@ -49,7 +50,7 @@ Example (`maps/map1.ber`):
 
 ```bash
 make
-./so_long maps/<map>.ber
+./2d_tile_game maps/<map>.ber
 ```
 
 ### Makefile Targets
