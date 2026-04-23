@@ -1,0 +1,32 @@
+/* XPM */
+static char *tiles_center_xpm_16x16[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c #E0E4E7",
+". c #E4E7EA",
+"X c #E7EAEC",
+"o c #EBEDEF",
+"O c #EDEFF1",
+"+ c #EEF0F1",
+"@ c #F2F4F5",
+"# c #F6F8F8",
+"$ c #F7F8F9",
+"% c #FFFFFF",
+/* pixels */
+"XXXXoooX.OoXoOoo",
+"o%%%%%%%O%%%%%%o",
+"o%%%%%%%O%%%%%%o",
+"X%%%%%%%O%%%%%%o",
+"O%%%%%%#@%%%%%%X",
+"o%%%%%%OO%%%%%%X",
+"O%%%%%@+o@%%%%%X",
+" @@%@+o%%o@#@@@X",
+"X@@O@O+%%oX+@@@o",
+"+%%%%%++@@%%%%%.",
+"X%%%%%%+o%%%%%%X",
+"X%%%%%%+#%%%%%%X",
+".%%%%%%@@%%%%%%o",
+".%%%%%%@@%%%%%%o",
+"X%%%%%%@#%%%%%%X",
+"oOOooooXXooooXXX"
+};
