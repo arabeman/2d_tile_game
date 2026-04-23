@@ -50,7 +50,7 @@ Example (`maps/map1.ber`):
 
 ```bash
 make
-./2d_tile_game maps/<map>.ber
+./so_long maps/<map>.ber
 ```
 
 ### Makefile Targets
